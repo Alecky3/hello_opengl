@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\Files\c++ programming\opengl\GLFW\glfwtest1\main.cpp(32,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\Files\c++ programming\opengl\GLFW\glfwtest1\main.cpp(140,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+  glfwtest1.vcxproj -> E:\Files\c++ programming\opengl\GLFW\glfwtest1\x64\Debug\glfwtest1.exe
